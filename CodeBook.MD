@@ -39,7 +39,12 @@ The data sets used from the include files are:
 # Combine The Data Sets
 
 * Combined the test and training subjects, data sets, and acitivty lables utilizing row bind function with the test data on top
+* Data is the merged together from left to right - subjects, activitie, and features using the column bind function 
+* Output of this section is the mergedDataSet
 
+# Create the column labels
  
-
+* Set the activityId, and Activity labels on the Activity Type Data
+* Create a character vector of the data set feature names
+* Merge the two column data labels with the activities on the left
 
