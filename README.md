@@ -14,7 +14,7 @@ A full descrption of the data set and the ability to download is located here - 
 
 # Files
 
-Readme.MD - This file.  
+Readme.MD - This file
 CodeBook.MD - Describes the variables, the data, and any transformations or work performed to clean up the data
 run_analysis.R - R Source code that executes the analysis on the data and produces the output file
 averagedDataSummary.csv - Tidy data set with the average of each variable for each activity and each subject
