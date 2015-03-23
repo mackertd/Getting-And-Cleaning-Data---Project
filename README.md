@@ -1,4 +1,4 @@
-# Getting And Cleaning Data Course Project (John Hopkins University - CourserA)
+# Getting And Cleaning Data Course Project (John Hopkins University - Coursera)
 
 This repository holds the source code, Read ME, Code Book, and output for the Course Project for the Getting and Cleaning Data Course.
 
